@@ -4,5 +4,5 @@ ___
 Это может пригодиться, когда на сайте есть ограничение на размер загрузки фото и нужно проверить граничные значения.
 
 <p  align="left">  
-  <code><img width="25%" title="Pepe" src="picture/canister.png"></code>
+  <code><img width="25%" title="Canister" src="picture/canister.png"></code>
 </p>
